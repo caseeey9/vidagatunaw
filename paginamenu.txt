@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Página principal</title>
+	<style type="text/css">
+		p.rightmargin {margin-right: 60%}
+	</style>
+</head>
+<body>
+	<h1 align="center"><b><big><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\pagina principal foto.jpg" height="100" width="100">VIDA GATUNA<img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\pagina principal foto.jpg" height="100" width="100"></big></b></h1>
+	<body background="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\fondo4.png">
+	<p align="center"><a href="mailto: vida.gatunaw@gmail.com">vida.gatunaw@gmail.com.</a>Pueden compartir con nosotros historia con sus gatitos.<br>
+		En esta págna se muestra un blog de noticias, videos graciosos, historia y cualquier tipo de información sore gatos
+	<hr width="100%" noshade size="3">
+	<ol type="1" start="1"><font size="5" color="blue">
+
+		<li><a href="file:///C:/Users/casey/OneDrive/Escritorio/Practica_HTML/proyecto/DATOSSEMANALES.HTML">DATOS SORPRENSENTES</a></li>
+		<li><a href="file:///C:/Users/casey/OneDrive/Escritorio/Practica_HTML/proyecto/momentosgraciosos.html">MOMENTOS ADORABLES</a></li>
+		<li><a href="file:///C:/Users/casey/OneDrive/Escritorio/Practica_HTML/proyecto/noticia.html">NOTICIAS</a></li>
+	
+	<table border="2" width="100%">
+	<tr>
+	<td align="center"><a href="file:///C:/Users/casey/OneDrive/Escritorio/Practica_HTML/proyecto/DATOSSEMANALES.HTML">DATOS SORPRENDENTES</a></td>
+	<td align="center"><a href="file:///C:/Users/casey/OneDrive/Escritorio/Practica_HTML/proyecto/momentosgraciosos.html">MOMENTOS ADORABLES</a></td>
+	<td align="center"><a href="file:///C:/Users/casey/OneDrive/Escritorio/Practica_HTML/proyecto/noticia.html">NOTICIAS</a></td>
+	</tr>
+	</table>
+<p align="left"><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\foto3.jpg" width="200" height="200"><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\pagina principal foto2.jpg" width="200" height="200"><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\pagina principal foto3.jpg" width="200" height="200"><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\titulo.jpg" width="200" height="200"><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\pagina principal foto4.jpg" width="200" height="200"><img src="C:\Users\casey\OneDrive\Escritorio\Practica_HTML\proyecto\img\videos graciosos.jpg" width="200" height="200"></p>
+</body>
+</html>
